@@ -241,7 +241,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 
 let usrs = db.data.users[m.sender]
 let tek = `*${ucapan()} ${conn.getName(m.sender)}*
-┏─── ⳹°❀❬ Mable Botz ❭❀°
+┏─── ⳹°✷❬ 𝘼𝙧𝙭𝘽𝙤𝙩𝙯𝙊𝙁𝘾 ❭✷°
 │✎ _Aktif Selama:_ ${mpt}
 │✎ _Jam:_ ${moment.tz('Asia/Jakarta').format('HH')} H  ${moment.tz('Asia/Jakarta').format('mm')} M  ${moment.tz('Asia/Jakarta').format('ss')} S
 │✎ _User:_ ${Object.keys(global.db.data.users).length}
@@ -250,7 +250,7 @@ let tek = `*${ucapan()} ${conn.getName(m.sender)}*
 `
 const listMessage = {
   text: tek,
-  footer: '© by MableBotz',
+  footer: '© by 𝘼𝙧𝙭𝘽𝙤𝙩𝙯𝙊𝙁𝘾',
   mentions: await conn.parseMention(tek),
   title: `${htki} *LIST MENU* ${htka}`,
   buttonText: `CLICK HERE ⎙`,
@@ -261,12 +261,12 @@ const listMessage = {
     }
   	
  /**************************** TIME *********************/
- let wib = moment.tz('Asia/Jakarta').format('HH:mm:ss')
-    let wibh = moment.tz('Asia/Jakarta').format('HH')
-    let wibm = moment.tz('Asia/Jakarta').format('mm')
-    let wibs = moment.tz('Asia/Jakarta').format('ss')
-    let wit = moment.tz('Asia/Jayapura').format('HH:mm:ss')
-    let wita = moment.tz('Asia/Makassar').format('HH:mm:ss')
+ let wib = moment.tz('Asia/Kuala Lumpur').format('HH:mm:ss')
+    let wibh = moment.tz('Asia/Kuala Lumpur').format('HH')
+    let wibm = moment.tz('Asia/Kuala Lumpur').format('mm')
+    let wibs = moment.tz('Asia/Kuala Lumpur').format('ss')
+    let wit = moment.tz('Asia/Kuala Lumpur').format('HH:mm:ss')
+    let wita = moment.tz('Asia/Kuala Lumpur').format('HH:mm:ss')
     let wktuwib = `${wibh} H ${wibm} M ${wibs} S`
  
  let mode = global.opts['self'] ? 'Private' : 'Publik'
@@ -410,7 +410,7 @@ const listMessage = {
     message: { 
                   "videoMessage": { 
                   "title": wm,
-                  "h": `Nekohime`,
+                  "h": `𝕬𝖗𝖝`,
                   'duration': '99999999', 
                   'gifPlayback': 'true', 
                   'caption': bottime,
