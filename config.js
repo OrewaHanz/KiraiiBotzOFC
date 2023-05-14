@@ -4,6 +4,7 @@
 
 // - - THANKS TO - -
 // • Allah SWT
+// • Yulie Tempest 
 // • Nurutomo
 // • Bochilgaming
 // • Rominaru
@@ -61,14 +62,14 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '60146144525'
 global.nomorown = '60169611989'
-global.namebot = 'ArxBotzOFC ⚜️'
+global.namebot = '𝘼𝙧𝙭𝘽𝙤𝙩𝙯𝙊𝙁𝘾 ⚜️'
 global.nameown = 'Yulie Comel` 🦄'
 
 
 /*============== STAFF ==============*/
 global.owner = [
   ['60169611989'],
-  [ 'MABLEBOT', true]
+  [ '𝗔𝗿𝘅𝗕𝗼𝘁𝘇𝗢𝗙𝗖', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,12 +114,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ArxBotzOFC あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ARXBOTZ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ARXBOTZ'
+global.wm = '                「 𝘼𝙧𝙭𝘽𝙤𝙩𝙯𝙊𝙁𝘾 あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝗔𝗿𝘅𝗕𝗼𝘁𝘇˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ 𝗔𝗿𝘅𝗕𝗼𝘁𝘇'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '⚜️ ┊ ArxBotzOFC <3'
+global.titlebot = '⚜️ ┊ 𝘼𝙧𝙭𝘽𝙤𝙩𝙯𝙊𝙁𝘾 <3'
 global.author = global.wm
 
 
@@ -155,7 +156,7 @@ global.dmenub2 = '┊' //body for info cmd on Default menu
 global.dmenuf = '┗––––––––––✦' //footer
 
 // COMMAND MENU
-global.dashmenu = '┅━━━━━═┅═❏ *DASHBOARD* ❏═┅═━━━━━┅'
+global.dashmenu = '┅━━━━━═┅═❏ *𝘼𝙧𝙭𝘽𝙤𝙩𝙯𝙊𝙁𝘾* ❏═┅═━━━━━┅'
 global.cmenut = '❏––––––『'                       //top
 global.cmenuh = '』––––––'                        //header
 global.cmenub = '┊✦ '                            //body
