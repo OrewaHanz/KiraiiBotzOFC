@@ -1,5 +1,5 @@
-// S C R I P T  O R I  B Y  @BochilGaming 🔭
-// M A D E  B Y  Letta - Sama 🐰  
+// S C R I P T  O R I  B Y  @KiraiOFC 🎴
+// M A D E  B Y  K I R A I - Sama 🎴  
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
@@ -21,9 +21,9 @@ import { fileURLToPath } from 'url'
 import moment from 'moment-timezone'
 
 /*============= WAKTU =============*/
-let wibh = moment.tz('Asia/Jakarta').format('HH')
-    let wibm = moment.tz('Asia/Jakarta').format('mm')
-    let wibs = moment.tz('Asia/Jakarta').format('ss')
+let wibh = moment.tz('Asia/Kuala Lumpur').format('HH')
+    let wibm = moment.tz('Asia/Kuala Lumpur').format('mm')
+    let wibs = moment.tz('Asia/Kuala Lumpur').format('ss')
     let wktuwib = `${wibh} H ${wibm} M ${wibs} S`
     
     let d = new Date(new Date + 3600000)
@@ -59,16 +59,16 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '60177301683'
-global.nomorown = '60182720133'
-global.namebot = 'Mabl£Botz 💎'
-global.nameown = 'MABLE ROR🦖'
+global.nomorbot = '60146144525'
+global.nomorown = '60169611989'
+global.namebot = 'ArxBotzOFC ⚜️'
+global.nameown = 'Yulie Comel` 🦄'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['60182720133'],
-  ['60182720133', 'MABLEBOT', true]
+  ['60169611989'],
+  [ 'MABLEBOT', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,12 +113,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 MABLEBOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘MABLEBOT˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ MABLEBOT'
+global.wm = '                「 ArxBotzOFC あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ARXBOTZ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ ARXBOTZ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '🌱 ┊ mable Whatsapp ʙᴏᴛ'
+global.titlebot = '⚜️ ┊ ArxBotzOFC <3'
 global.author = global.wm
 
 
