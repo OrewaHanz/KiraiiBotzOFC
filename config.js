@@ -45,11 +45,11 @@ let wibh = moment.tz('Asia/Kuala Lumpur').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/sw33ttieluna'
-global.sgh = 'https://github.com/mablebotz'
-global.sgc = 'https://wa.me/qr/MPIJLWNBN7KJH1'
+global.sig = 'https://www.instagram.com/ammmovrdose'
+global.sgh = 'https://github.com/WatashiDeZ4mmm'
+global.sgc = '-'
 global.sdc = " "
-global.snh = 'https://nhentai.net/g/365296/'
+global.snh = '-'
 
 /*============== PAYMENT ==============*/
 global.pdana = '-'
@@ -60,16 +60,16 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '60146144525'
-global.nomorown = '60169611989'
-global.namebot = '𝘼𝙧𝙭𝘽𝙤𝙩𝙯𝙊𝙁𝘾 ⚜️'
-global.nameown = 'Yulie Comel` 🦄'
+global.nomorbot = '601137965366'
+global.nomorown = '601116003565'
+global.namebot = 'z4mmmSOLID - MD'
+global.nameown = 'z4mmsmith'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['60169611989'],
-  [ '𝗔𝗿𝘅𝗕𝗼𝘁𝘇𝗢𝗙𝗖', true]
+  ['601116003565'],
+  [ 'z4mmsmith', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
